@@ -74,7 +74,7 @@ Each course configures its own stages, marking scheme and evaluation rules, so t
 
 <div align="center">
 
-| **19** | **720** | **186** | **630+** | **<!-- commit-total:start -->556<!-- commit-total:end -->** |
+| **19** | **720** | **186** | **630+** | **<!-- commit-total:start -->558<!-- commit-total:end -->** |
 |:---:|:---:|:---:|:---:|:---:|
 | AI capabilities | past projects in the knowledge base | API endpoints | automated tests | commits |
 
@@ -85,21 +85,21 @@ Each course configures its own stages, marking scheme and evaluation rules, so t
 <!-- commit-stats:start -->
 | Repository | Commits | Branches | Last commit |
 |---|---:|---:|---|
-| `psems-frontend` | 314 | 12 | 2026-11-14 |
-| `psems-backend` | 232 | 13 | 2026-11-14 |
-| `psems-ml-service` | 8 | 3 | 2026-08-01 |
-| `psems-infra` | 2 | 1 | 2026-07-06 |
-| **Total** | **556** | | |
+| `psems-frontend` | 314 | 11 | 2026-11-13 |
+| `psems-backend` | 234 | 12 | 2026-11-13 |
+| `psems-ml-service` | 8 | 2 | 2026-07-31 |
+| `psems-infra` | 2 | 1 | 2026-07-05 |
+| **Total** | **558** | | |
 
 ```mermaid
 xychart-beta
     title "Commits per month"
     x-axis ["Jul 26", "Aug 26", "Sep 26", "Oct 26", "Nov 26"]
     y-axis "Commits"
-    bar [33, 158, 223, 79, 63]
+    bar [37, 154, 223, 87, 57]
 ```
 
-<sub>Since 2026-07-06 · updated automatically</sub>
+<sub>Since 2026-07-05 · updated automatically</sub>
 <!-- commit-stats:end -->
 
 ## Architecture
