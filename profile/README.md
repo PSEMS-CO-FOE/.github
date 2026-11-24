@@ -74,7 +74,7 @@ Each course configures its own stages, marking scheme and evaluation rules, so t
 
 <div align="center">
 
-| **19** | **720** | **186** | **630+** | **<!-- commit-total:start -->608<!-- commit-total:end -->** |
+| **19** | **720** | **186** | **630+** | **<!-- commit-total:start -->616<!-- commit-total:end -->** |
 |:---:|:---:|:---:|:---:|:---:|
 | AI capabilities | past projects in the knowledge base | API endpoints | automated tests | commits |
 
@@ -85,18 +85,18 @@ Each course configures its own stages, marking scheme and evaluation rules, so t
 <!-- commit-stats:start -->
 | Repository | Commits | Branches | Last commit |
 |---|---:|---:|---|
-| `psems-frontend` | 342 | 14 | 2026-11-22 |
-| `psems-backend` | 256 | 15 | 2026-11-22 |
+| `psems-frontend` | 346 | 15 | 2026-11-23 |
+| `psems-backend` | 260 | 16 | 2026-11-23 |
 | `psems-ml-service` | 8 | 2 | 2026-07-31 |
 | `psems-infra` | 2 | 1 | 2026-07-05 |
-| **Total** | **608** | | |
+| **Total** | **616** | | |
 
 ```mermaid
 xychart-beta
     title "Commits per month"
     x-axis ["Jul 26", "Aug 26", "Sep 26", "Oct 26", "Nov 26"]
     y-axis "Commits"
-    bar [37, 154, 223, 87, 107]
+    bar [37, 154, 223, 87, 115]
 ```
 
 <sub>Since 2026-07-05 · updated automatically</sub>
